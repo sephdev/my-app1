@@ -23,6 +23,7 @@ import './index.css';
   } */
 
 //   comment test for vs code git
+// test 2 for vs code source control git
 
   function Square(props) {
       return (
