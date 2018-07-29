@@ -22,6 +22,8 @@ import './index.css';
     }
   } */
 
+//   comment test for vs code git
+
   function Square(props) {
       return (
           <button className="square" onClick={props.onClick}>
